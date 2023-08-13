@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/dayoonasanya.github.io/sitemap.xml
+Host: https://github.com
