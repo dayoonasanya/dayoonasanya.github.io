@@ -10,3 +10,9 @@ In this repository, I have designed a website originally a react template to cop
 ```
 
 `dayoonasanya.com`
+----
+
+
+1. `SoftwareEngineering`
+2. `Cloud Expert`
+   
